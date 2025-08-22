@@ -10,6 +10,7 @@ namespace LAB2_2025_1_Miranda
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
