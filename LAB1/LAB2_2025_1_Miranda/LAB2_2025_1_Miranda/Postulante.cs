@@ -1,13 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace LAB2_2025_1_Miranda
+﻿namespace LAB2_2025_1_Miranda
 {
     public class Postulante
     {
-
+        private string paterno;
+        private string materno;
+        private string nombre;
+        private string dni;
     }
 }
