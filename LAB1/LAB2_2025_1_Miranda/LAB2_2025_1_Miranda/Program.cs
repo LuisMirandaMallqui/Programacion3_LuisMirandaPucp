@@ -12,6 +12,9 @@ namespace LAB2_2025_1_Miranda
         {
               // This is a simple C# program that prints "Hello, World!" to the console.
             Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World!");
+
             // Wait for user input before closing the console window
             Console.ReadLine();
         }
