@@ -1,0 +1,8 @@
+C:\Users\luism\Downloads\7mo\Progra3\Programacion3_LuisMirandaPucp\LAB1\LAB2_2025_1_Miranda\LAB2_2025_1_Miranda\bin\Debug\LAB2_2025_1_Miranda.exe.config
+C:\Users\luism\Downloads\7mo\Progra3\Programacion3_LuisMirandaPucp\LAB1\LAB2_2025_1_Miranda\LAB2_2025_1_Miranda\bin\Debug\LAB2_2025_1_Miranda.exe
+C:\Users\luism\Downloads\7mo\Progra3\Programacion3_LuisMirandaPucp\LAB1\LAB2_2025_1_Miranda\LAB2_2025_1_Miranda\bin\Debug\LAB2_2025_1_Miranda.pdb
+C:\Users\luism\Downloads\7mo\Progra3\Programacion3_LuisMirandaPucp\LAB1\LAB2_2025_1_Miranda\LAB2_2025_1_Miranda\obj\Debug\LAB2_2025_1_Miranda.csproj.AssemblyReference.cache
+C:\Users\luism\Downloads\7mo\Progra3\Programacion3_LuisMirandaPucp\LAB1\LAB2_2025_1_Miranda\LAB2_2025_1_Miranda\obj\Debug\LAB2_2025_1_Miranda.csproj.CoreCompileInputs.cache
+C:\Users\luism\Downloads\7mo\Progra3\Programacion3_LuisMirandaPucp\LAB1\LAB2_2025_1_Miranda\LAB2_2025_1_Miranda\obj\Debug\LAB2_2025_1_Miranda.exe
+C:\Users\luism\Downloads\7mo\Progra3\Programacion3_LuisMirandaPucp\LAB1\LAB2_2025_1_Miranda\LAB2_2025_1_Miranda\obj\Debug\LAB2_2025_1_Miranda.pdb
+C:\Users\luism\Downloads\7mo\Progra3\Programacion3_LuisMirandaPucp\LAB1\LAB2_2025_1_Miranda\LAB2_2025_1_Miranda\obj\Debug\LAB2_2025_1_Miranda.exe.config
