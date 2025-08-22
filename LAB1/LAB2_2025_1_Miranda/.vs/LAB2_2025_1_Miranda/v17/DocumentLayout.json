@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\luism\\Downloads\\7mo\\Progra3\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DC4469E6-A174-4AB3-A221-9C381B8D809C}|LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda.csproj|c:\\users\\luism\\downloads\\7mo\\progra3\\programacion3_luismirandapucp\\lab1\\lab2_2025_1_miranda\\lab2_2025_1_miranda\\principal_p1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4469E6-A174-4AB3-A221-9C381B8D809C}|LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda.csproj|solutionrelative:lab2_2025_1_miranda\\principal_p1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DC4469E6-A174-4AB3-A221-9C381B8D809C}|LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda.csproj|c:\\users\\luism\\downloads\\7mo\\progra3\\programacion3_luismirandapucp\\lab1\\lab2_2025_1_miranda\\lab2_2025_1_miranda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC4469E6-A174-4AB3-A221-9C381B8D809C}|LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda.csproj|solutionrelative:lab2_2025_1_miranda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,12 +27,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Principal_P1.cs",
+              "DocumentMoniker": "C:\\Users\\luism\\Downloads\\7mo\\Progra3\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda\\Principal_P1.cs",
+              "RelativeDocumentMoniker": "LAB2_2025_1_Miranda\\Principal_P1.cs",
+              "ToolTip": "C:\\Users\\luism\\Downloads\\7mo\\Progra3\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda\\Principal_P1.cs*",
+              "RelativeToolTip": "LAB2_2025_1_Miranda\\Principal_P1.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T06:21:45.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\luism\\Downloads\\7mo\\Progra3\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda\\Program.cs",
               "RelativeDocumentMoniker": "LAB2_2025_1_Miranda\\Program.cs",
               "ToolTip": "C:\\Users\\luism\\Downloads\\7mo\\Progra3\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda\\Program.cs",
               "RelativeToolTip": "LAB2_2025_1_Miranda\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-22T06:05:25.621Z",
               "EditorCaption": ""
