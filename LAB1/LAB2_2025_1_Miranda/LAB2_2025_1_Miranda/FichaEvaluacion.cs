@@ -8,5 +8,6 @@ namespace LAB2_2025_1_Miranda
 {
     class FichaEvaluacion
     {
+        
     }
 }

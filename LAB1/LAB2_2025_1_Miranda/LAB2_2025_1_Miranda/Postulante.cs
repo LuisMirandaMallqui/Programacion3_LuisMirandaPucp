@@ -2,7 +2,7 @@
 {
     public class Postulante
     {
-        private string paterno;
+        public string paterno;
         private string materno;
         private string nombre;
         private string dni;
