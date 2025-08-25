@@ -70,7 +70,7 @@
 
         public override string ToString()
         {
-            return paterno + materno + ", " + nombre + " (" + dni + ")";
+            return paterno + " " + materno + ", " + nombre + " (" + dni + ")";
         }
     }
 }
