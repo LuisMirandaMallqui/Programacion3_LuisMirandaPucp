@@ -1,17 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Users\\alulab14.INF\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\",
+  "WorkspaceRootPath": "D:\\Users\\alulab14\\source\\repos\\LuisMirandaMallqui\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC4469E6-A174-4AB3-A221-9C381B8D809C}|LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda.csproj|d:\\users\\alulab14.inf\\programacion3_luismirandapucp\\lab1\\lab2_2025_1_miranda\\lab2_2025_1_miranda\\postulante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DC4469E6-A174-4AB3-A221-9C381B8D809C}|LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda.csproj|D:\\Users\\alulab14\\source\\repos\\LuisMirandaMallqui\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\lab2_2025_1_miranda\\admision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4469E6-A174-4AB3-A221-9C381B8D809C}|LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda.csproj|solutionrelative:lab2_2025_1_miranda\\admision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4469E6-A174-4AB3-A221-9C381B8D809C}|LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda.csproj|d:\\users\\alulab14\\source\\repos\\luismirandamallqui\\programacion3_luismirandapucp\\lab1\\lab2_2025_1_miranda\\lab2_2025_1_miranda\\postulante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC4469E6-A174-4AB3-A221-9C381B8D809C}|LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda.csproj|solutionrelative:lab2_2025_1_miranda\\postulante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC4469E6-A174-4AB3-A221-9C381B8D809C}|LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda.csproj|d:\\users\\alulab14.inf\\programacion3_luismirandapucp\\lab1\\lab2_2025_1_miranda\\lab2_2025_1_miranda\\principal_p1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DC4469E6-A174-4AB3-A221-9C381B8D809C}|LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda.csproj|D:\\Users\\alulab14\\source\\repos\\LuisMirandaMallqui\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\lab2_2025_1_miranda\\principal_p1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC4469E6-A174-4AB3-A221-9C381B8D809C}|LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda.csproj|solutionrelative:lab2_2025_1_miranda\\principal_p1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\luism\\Downloads\\7mo\\Progra3\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC4469E6-A174-4AB3-A221-9C381B8D809C}|LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda.csproj|D:\\Users\\alulab14\\source\\repos\\LuisMirandaMallqui\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\lab2_2025_1_miranda\\fichaevaluacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4469E6-A174-4AB3-A221-9C381B8D809C}|LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda.csproj|solutionrelative:lab2_2025_1_miranda\\fichaevaluacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4469E6-A174-4AB3-A221-9C381B8D809C}|LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda.csproj|D:\\Users\\alulab14\\source\\repos\\LuisMirandaMallqui\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\lab2_2025_1_miranda\\publicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4469E6-A174-4AB3-A221-9C381B8D809C}|LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda.csproj|solutionrelative:lab2_2025_1_miranda\\publicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,46 +30,101 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Principal_P1.cs",
-              "DocumentMoniker": "D:\\Users\\alulab14.INF\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda\\Principal_P1.cs",
-              "RelativeDocumentMoniker": "LAB2_2025_1_Miranda\\Principal_P1.cs",
-              "ToolTip": "D:\\Users\\alulab14.INF\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda\\Principal_P1.cs",
-              "RelativeToolTip": "LAB2_2025_1_Miranda\\Principal_P1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T06:21:45.527Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Postulante.cs",
-              "DocumentMoniker": "D:\\Users\\alulab14.INF\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda\\Postulante.cs",
+              "DocumentMoniker": "D:\\Users\\alulab14\\source\\repos\\LuisMirandaMallqui\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda\\Postulante.cs",
               "RelativeDocumentMoniker": "LAB2_2025_1_Miranda\\Postulante.cs",
-              "ToolTip": "D:\\Users\\alulab14.INF\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda\\Postulante.cs",
+              "ToolTip": "D:\\Users\\alulab14\\source\\repos\\LuisMirandaMallqui\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda\\Postulante.cs",
               "RelativeToolTip": "LAB2_2025_1_Miranda\\Postulante.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-22T23:34:21.594Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\luism\\Downloads\\7mo\\Progra3\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda\\Program.cs",
-              "ToolTip": "C:\\Users\\luism\\Downloads\\7mo\\Progra3\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda\\Program.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T06:05:25.621Z"
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admision.cs",
+              "DocumentMoniker": "D:\\Users\\alulab14\\source\\repos\\LuisMirandaMallqui\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda\\Admision.cs",
+              "RelativeDocumentMoniker": "LAB2_2025_1_Miranda\\Admision.cs",
+              "ToolTip": "D:\\Users\\alulab14\\source\\repos\\LuisMirandaMallqui\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda\\Admision.cs",
+              "RelativeToolTip": "LAB2_2025_1_Miranda\\Admision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T15:34:33.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Principal_P1.cs",
+              "DocumentMoniker": "D:\\Users\\alulab14\\source\\repos\\LuisMirandaMallqui\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda\\Principal_P1.cs",
+              "RelativeDocumentMoniker": "LAB2_2025_1_Miranda\\Principal_P1.cs",
+              "ToolTip": "D:\\Users\\alulab14\\source\\repos\\LuisMirandaMallqui\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda\\Principal_P1.cs",
+              "RelativeToolTip": "LAB2_2025_1_Miranda\\Principal_P1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T06:21:45.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Publicacion.cs",
+              "DocumentMoniker": "D:\\Users\\alulab14\\source\\repos\\LuisMirandaMallqui\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda\\Publicacion.cs",
+              "RelativeDocumentMoniker": "LAB2_2025_1_Miranda\\Publicacion.cs",
+              "ToolTip": "D:\\Users\\alulab14\\source\\repos\\LuisMirandaMallqui\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda\\Publicacion.cs",
+              "RelativeToolTip": "LAB2_2025_1_Miranda\\Publicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T15:21:00.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FichaEvaluacion.cs",
+              "DocumentMoniker": "D:\\Users\\alulab14\\source\\repos\\LuisMirandaMallqui\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda\\FichaEvaluacion.cs",
+              "RelativeDocumentMoniker": "LAB2_2025_1_Miranda\\FichaEvaluacion.cs",
+              "ToolTip": "D:\\Users\\alulab14\\source\\repos\\LuisMirandaMallqui\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda\\FichaEvaluacion.cs",
+              "RelativeToolTip": "LAB2_2025_1_Miranda\\FichaEvaluacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T15:21:01.086Z"
             }
           ]
         }

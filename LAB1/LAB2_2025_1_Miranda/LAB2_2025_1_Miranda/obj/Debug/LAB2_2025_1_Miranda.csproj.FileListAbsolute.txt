@@ -13,3 +13,10 @@ C:/Users/luism/Downloads/7mo/Progra3/Programacion3_LuisMirandaPucp/LAB1/LAB2_202
 /home/luis/Proyectos/Personal/Programacion3/LAB1/LAB2_2025_1_Miranda/LAB2_2025_1_Miranda/bin/Debug/LAB2_2025_1_Miranda.exe.config
 /home/luis/Proyectos/Personal/Programacion3/LAB1/LAB2_2025_1_Miranda/LAB2_2025_1_Miranda/bin/Debug/LAB2_2025_1_Miranda.exe
 /home/luis/Proyectos/Personal/Programacion3/LAB1/LAB2_2025_1_Miranda/LAB2_2025_1_Miranda/bin/Debug/LAB2_2025_1_Miranda.pdb
+D:\Users\alulab14\source\repos\LuisMirandaMallqui\Programacion3_LuisMirandaPucp\LAB1\LAB2_2025_1_Miranda\LAB2_2025_1_Miranda\obj\Debug\LAB2_2025_1_Miranda.csproj.AssemblyReference.cache
+D:\Users\alulab14\source\repos\LuisMirandaMallqui\Programacion3_LuisMirandaPucp\LAB1\LAB2_2025_1_Miranda\LAB2_2025_1_Miranda\obj\Debug\LAB2_2025_1_Miranda.csproj.CoreCompileInputs.cache
+D:\Users\alulab14\source\repos\LuisMirandaMallqui\Programacion3_LuisMirandaPucp\LAB1\LAB2_2025_1_Miranda\LAB2_2025_1_Miranda\obj\Debug\LAB2_2025_1_Miranda.exe
+D:\Users\alulab14\source\repos\LuisMirandaMallqui\Programacion3_LuisMirandaPucp\LAB1\LAB2_2025_1_Miranda\LAB2_2025_1_Miranda\obj\Debug\LAB2_2025_1_Miranda.pdb
+D:\Users\alulab14\source\repos\LuisMirandaMallqui\Programacion3_LuisMirandaPucp\LAB1\LAB2_2025_1_Miranda\LAB2_2025_1_Miranda\bin\Debug\LAB2_2025_1_Miranda.exe.config
+D:\Users\alulab14\source\repos\LuisMirandaMallqui\Programacion3_LuisMirandaPucp\LAB1\LAB2_2025_1_Miranda\LAB2_2025_1_Miranda\bin\Debug\LAB2_2025_1_Miranda.exe
+D:\Users\alulab14\source\repos\LuisMirandaMallqui\Programacion3_LuisMirandaPucp\LAB1\LAB2_2025_1_Miranda\LAB2_2025_1_Miranda\bin\Debug\LAB2_2025_1_Miranda.pdb
