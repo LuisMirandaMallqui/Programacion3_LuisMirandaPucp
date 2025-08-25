@@ -1,14 +1,20 @@
 ﻿using System;
-
-namespace Pregunta1
+//using LAB2_2025_1_Miranda;
+//using Postulante;
+//namespace Pregunta1
+namespace LAB2_2025_1_Miranda
 {
     public class Principal
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hola");
             Postulante postulante = new Postulante();
-            FichaEvaluacion ficha = new FichaEvaluacion();
-            Admision admision = new Admision();
+            postulante.paterno = "Miranda";
+            Console.WriteLine(postulante.paterno);
+                
+            //Evaluacion ficha = new FichaEvaluacion();
+            //Admision admision = new Admision();
 
             //postulante.Paterno = "Pérez";
             //postulante.Materno = "Deza";
