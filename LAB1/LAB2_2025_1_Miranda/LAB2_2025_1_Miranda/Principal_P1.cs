@@ -8,23 +8,21 @@ namespace LAB2_2025_1_Miranda
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hola");
-            Postulante postulante = new Postulante("Miranda", "Mallqui", "Luis Alberto", "72316555");
-            Console.WriteLine(postulante);
-            Console.WriteLine("chizuru");
-            //Evaluacion ficha = new FichaEvaluacion();
-            //Admision admision = new Admision();
+            Postulante postulante = new Postulante();
+            //Console.WriteLine(postulante);
+            FichaEvaluacion ficha = new FichaEvaluacion();
+            Admision admision = new Admision();
 
-            //postulante.Paterno = "Pérez";
-            //postulante.Materno = "Deza";
-            //postulante.Nombre = "Juan Alonso";
-            //postulante.Dni = "75355946B";
-            //ficha.Candidato = postulante;
-            //ficha.Fecha_hora = new DateTime(2025, 02, 20, 14, 00, 00);
-            //ficha.Evaluacion_expediente = 22;
-            //ficha.Evaluacion_entrevista = 47;
-            //ficha.Evaluacion_examen = 18;
-            //admision.agregarFichaDeEvaluacion(ficha);
+            postulante.Paterno = "Pérez";
+            postulante.Materno = "Deza";
+            postulante.Nombre = "Juan Alonso";
+            postulante.Dni = "75355946B";
+            ficha.Candidato = postulante;
+            ficha.Fecha_hora = new DateTime(2025, 02, 20, 14, 00, 00);
+            ficha.Evaluacion_expediente = 22;
+            ficha.Evaluacion_entrevista = 47;
+            ficha.Evaluacion_examen = 18;
+            admision.agregarFichaDeEvaluacion(ficha);
 
             //postulante.Paterno = "León";
             //postulante.Materno = "Mendoza";
@@ -49,7 +47,6 @@ namespace LAB2_2025_1_Miranda
             //admision.agregarFichaDeEvaluacion(ficha);
 
             //Console.WriteLine(admision);
-            Console.WriteLine("hola gente");
 
 
         }
