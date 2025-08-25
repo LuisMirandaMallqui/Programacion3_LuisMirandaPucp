@@ -11,6 +11,7 @@ namespace LAB2_2025_1_Miranda
             Console.WriteLine("hola");
             Postulante postulante = new Postulante("Miranda", "Mallqui", "Luis Alberto", "72316555");
             Console.WriteLine(postulante);
+            Console.WriteLine("chizuru");
             //Evaluacion ficha = new FichaEvaluacion();
             //Admision admision = new Admision();
 
