@@ -17,10 +17,11 @@ namespace LAB2_2025_1_Miranda
         internal List<FichaEvaluacion> Lista_fichas { get => lista_fichas; }
         public void agregarFichaDeEvaluacion(FichaEvaluacion ficha)
         {
-            lista_fichas.Add(ficha);
+            FichaEvaluacion copia = new FichaEvaluacion(ficha);
+            lista_fichas.Add(copia);
             cantidad_postulantes++;
 
-            if(ficha.Estado == FichaEvaluacion.estado_candidato.ADMITIDO)
+            if (copia.Estado == FichaEvaluacion.EstadoCandidato.ADMITIDO)
             {
                 cantidad_admitidos++;
             }
@@ -29,6 +30,26 @@ namespace LAB2_2025_1_Miranda
         public Admision()
         {
             lista_fichas = new List<FichaEvaluacion>();
+            cantidad_admitidos = 0;
+            cantidad_postulantes = 0;
+        }
+
+        public override string ToString()
+        {
+            // Crear el reporte de admisión
+            string resultado = $"PROCESO DE ADMISION: {cantidad_postulantes} postulantes, {cantidad_admitidos} admitidos\n\nLISTA DE ADMITIDOS:\n";
+
+            // Recorrer la lista de fichas y agregar los postulantes admitidos al reporte
+            foreach (var ficha in lista_fichas)
+            {
+                if (ficha.Estado == FichaEvaluacion.EstadoCandidato.ADMITIDO)
+                {
+                    // Se asume que la clase Postulante tiene sobrecargado el método ToString() para retornar el nombre completo
+                    resultado += ficha.Candidato.ToString() + "\n";
+                }
+            }
+
+            return resultado;
         }
     }
 }
