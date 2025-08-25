@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Admision.cs" />
     <Compile Include="FichaEvaluacion.cs" />
     <Compile Include="Postulante.cs" />
     <Compile Include="Principal_P1.cs" />

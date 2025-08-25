@@ -9,10 +9,8 @@ namespace LAB2_2025_1_Miranda
         static void Main(string[] args)
         {
             Console.WriteLine("hola");
-            Postulante postulante = new Postulante();
-            postulante.paterno = "Miranda";
-            Console.WriteLine(postulante.paterno);
-                
+            Postulante postulante = new Postulante("Miranda", "Mallqui", "Luis Alberto", "72316555");
+            Console.WriteLine(postulante);
             //Evaluacion ficha = new FichaEvaluacion();
             //Admision admision = new Admision();
 
@@ -51,6 +49,8 @@ namespace LAB2_2025_1_Miranda
 
             //Console.WriteLine(admision);
             Console.WriteLine("hola gente");
+
+
         }
     }
 }
