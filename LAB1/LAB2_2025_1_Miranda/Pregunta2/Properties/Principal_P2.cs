@@ -7,8 +7,7 @@ namespace Pregunta2
     {
         static void Main(string[] args)
         {
-           //CancionBuilder cancionBuilder = new CancionBuilder();
-            //Cancion cancion = cancionBuilder;
+            
             Cancion cancion = new Cancion();
             cancion.Titulo = "Cuando estoy triste";
             cancion.AgregarInterpretes("Mercedes Sosa");
@@ -19,7 +18,8 @@ namespace Pregunta2
             cancion.OtroTitulo = "Cajita de música";
             Console.WriteLine(cancion.ToString());
             /*
-
+            //CancionBuilder cancionBuilder = new CancionBuilder();
+            //Cancion cancion = cancionBuilder;
                 .ConTitulo("Cuando estoy triste")
                 .TambienConocidaComo("Cajita de música")
                 .InterpretadoPor("Mercedes Sosa")

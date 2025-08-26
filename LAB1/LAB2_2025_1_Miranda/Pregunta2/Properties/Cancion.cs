@@ -95,7 +95,7 @@ namespace Pregunta2.Properties
             this.titulo = titulo;
             this.otro_titulo = otroTitulo;
             this.interpretes = new List<string>(interpretes);
-            this.interpretes = new List<string>(compositores);
+            this.compositores = new List<string>(compositores);
             this.album = album;
             this.opus = opus;
             this.subOpus = subOpus;
@@ -109,10 +109,29 @@ namespace Pregunta2.Properties
         */
         public override string ToString()
         {
-         //   string resultado = $"PROCESO DE ADMISION: {cantidad_postulantes} postulantes, {cantidad_admitidos} admitidos\n\nLISTA DE ADMITIDOS:\n";
+            //   string resultado = $"PROCESO DE ADMISION: {cantidad_postulantes} postulantes, {cantidad_admitidos} admitidos\n\nLISTA DE ADMITIDOS:\n";
 
+            string resultado = "";
+            if (!string.IsNullOrEmpty(titulo))
+                resultado += $"TITULO: {titulo}\n";
+            if(!string.IsNullOrEmpty(otro_titulo))
+                resultado += $"OTRO TITULO: {otro_titulo}\n";
+            if(interpretes.Count > 0 && interpretes != null && !string.IsNullOrEmpty(interpretes[0]))
+                resultado += $"INTERPRETADO POR: {string.Join(", ", interpretes)}\n";
+            if(compositoresCount>0 && compositores != null && !string.IsNullOrEmpty(compositores[0]))
+                resultado += $"COMPUESTO POR: {string.Join(", ", compositores)}\n";
+            if(!string.IsNullOrEmpty(genero.ToString()))
+                resultado += $"GENERO: {Funciones.CapitalizarPalabra(genero.ToString())}\n";
+            if (!string.IsNullOrEmpty(opus))
+                resultado += $"OPUS: {opus\n}";
+            if (!string.IsNullOrEmpty(subOpus))
+                resultado += $"OPUS: {subOpus\n}";
+            if (!string.IsNullOrEmpty(dedicatoria))
+                resultado += $"OPUS: {dedicatoria\n}";
+            if (!string.IsNullOrEmpty(album))
+                resultado += $"ALBUM: {album}\n";
 
-            string resultado = $"TITULO: {titulo}\nOTRO TITULO: {otro_titulo}\nINTERPRETADO POR: {string.Join(", ", interpretes)}\nCOMPUESTO POR: {string.Join(", ", compositores)}\nGENERO: {Funciones.CapitalizarPalabra(genero.ToString())}";
+                INTERPRETADO POR: {string.Join(", ", interpretes)}\nCOMPUESTO POR: {string.Join(", ", compositores)}\nGENERO: {Funciones.CapitalizarPalabra(genero.ToString())}";
             /*
              TITULO: Cuando estoy triste
              TAMBIEN CONOCIDA COMO: Cajita de música
