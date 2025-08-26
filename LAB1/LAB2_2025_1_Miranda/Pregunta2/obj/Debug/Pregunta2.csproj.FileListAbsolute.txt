@@ -1,0 +1,6 @@
+/home/luis/Proyectos/Personal/Programacion3/LAB1/LAB2_2025_1_Miranda/Pregunta2/bin/Debug/Pregunta2.exe
+/home/luis/Proyectos/Personal/Programacion3/LAB1/LAB2_2025_1_Miranda/Pregunta2/bin/Debug/Pregunta2.pdb
+/home/luis/Proyectos/Personal/Programacion3/LAB1/LAB2_2025_1_Miranda/Pregunta2/obj/Debug/Pregunta2.csproj.AssemblyReference.cache
+/home/luis/Proyectos/Personal/Programacion3/LAB1/LAB2_2025_1_Miranda/Pregunta2/obj/Debug/Pregunta2.csproj.CoreCompileInputs.cache
+/home/luis/Proyectos/Personal/Programacion3/LAB1/LAB2_2025_1_Miranda/Pregunta2/obj/Debug/Pregunta2.exe
+/home/luis/Proyectos/Personal/Programacion3/LAB1/LAB2_2025_1_Miranda/Pregunta2/obj/Debug/Pregunta2.pdb
