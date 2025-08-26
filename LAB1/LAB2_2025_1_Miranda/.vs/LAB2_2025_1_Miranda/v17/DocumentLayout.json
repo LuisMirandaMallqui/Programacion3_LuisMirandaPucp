@@ -1,7 +1,32 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Users\\alulab14\\source\\repos\\LuisMirandaMallqui\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\luism\\Downloads\\7mo\\Progra3\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{962DBBC7-789A-430C-8912-64B3904FF350}|Pregunta2\\Pregunta2.csproj|c:\\users\\luism\\downloads\\7mo\\progra3\\programacion3_luismirandapucp\\lab1\\lab2_2025_1_miranda\\pregunta2\\properties\\cancion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{962DBBC7-789A-430C-8912-64B3904FF350}|Pregunta2\\Pregunta2.csproj|solutionrelative:pregunta2\\properties\\cancion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4469E6-A174-4AB3-A221-9C381B8D809C}|LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda.csproj|c:\\users\\luism\\downloads\\7mo\\progra3\\programacion3_luismirandapucp\\lab1\\lab2_2025_1_miranda\\lab2_2025_1_miranda\\postulante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4469E6-A174-4AB3-A221-9C381B8D809C}|LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda.csproj|solutionrelative:lab2_2025_1_miranda\\postulante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962DBBC7-789A-430C-8912-64B3904FF350}|Pregunta2\\Pregunta2.csproj|c:\\users\\luism\\downloads\\7mo\\progra3\\programacion3_luismirandapucp\\lab1\\lab2_2025_1_miranda\\pregunta2\\properties\\funciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{962DBBC7-789A-430C-8912-64B3904FF350}|Pregunta2\\Pregunta2.csproj|solutionrelative:pregunta2\\properties\\funciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962DBBC7-789A-430C-8912-64B3904FF350}|Pregunta2\\Pregunta2.csproj|c:\\users\\luism\\downloads\\7mo\\progra3\\programacion3_luismirandapucp\\lab1\\lab2_2025_1_miranda\\pregunta2\\properties\\principal_p2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{962DBBC7-789A-430C-8912-64B3904FF350}|Pregunta2\\Pregunta2.csproj|solutionrelative:pregunta2\\properties\\principal_p2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4469E6-A174-4AB3-A221-9C381B8D809C}|LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda.csproj|c:\\users\\luism\\downloads\\7mo\\progra3\\programacion3_luismirandapucp\\lab1\\lab2_2025_1_miranda\\lab2_2025_1_miranda\\admision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4469E6-A174-4AB3-A221-9C381B8D809C}|LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda.csproj|solutionrelative:lab2_2025_1_miranda\\admision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4469E6-A174-4AB3-A221-9C381B8D809C}|LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda.csproj|C:\\Users\\luism\\Downloads\\7mo\\Progra3\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\lab2_2025_1_miranda\\principal_p1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4469E6-A174-4AB3-A221-9C381B8D809C}|LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda.csproj|solutionrelative:lab2_2025_1_miranda\\principal_p1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +34,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Postulante.cs",
+              "DocumentMoniker": "C:\\Users\\luism\\Downloads\\7mo\\Progra3\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda\\Postulante.cs",
+              "RelativeDocumentMoniker": "LAB2_2025_1_Miranda\\Postulante.cs",
+              "ToolTip": "C:\\Users\\luism\\Downloads\\7mo\\Progra3\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda\\Postulante.cs",
+              "RelativeToolTip": "LAB2_2025_1_Miranda\\Postulante.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAwwEYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T14:55:46.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Funciones.cs",
+              "DocumentMoniker": "C:\\Users\\luism\\Downloads\\7mo\\Progra3\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\Pregunta2\\Properties\\Funciones.cs",
+              "RelativeDocumentMoniker": "Pregunta2\\Properties\\Funciones.cs",
+              "ToolTip": "C:\\Users\\luism\\Downloads\\7mo\\Progra3\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\Pregunta2\\Properties\\Funciones.cs",
+              "RelativeToolTip": "Pregunta2\\Properties\\Funciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T15:12:44.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Admision.cs",
+              "DocumentMoniker": "C:\\Users\\luism\\Downloads\\7mo\\Progra3\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda\\Admision.cs",
+              "RelativeDocumentMoniker": "LAB2_2025_1_Miranda\\Admision.cs",
+              "ToolTip": "C:\\Users\\luism\\Downloads\\7mo\\Progra3\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda\\Admision.cs",
+              "RelativeToolTip": "LAB2_2025_1_Miranda\\Admision.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T13:42:59.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cancion.cs",
+              "DocumentMoniker": "C:\\Users\\luism\\Downloads\\7mo\\Progra3\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\Pregunta2\\Properties\\Cancion.cs",
+              "RelativeDocumentMoniker": "Pregunta2\\Properties\\Cancion.cs",
+              "ToolTip": "C:\\Users\\luism\\Downloads\\7mo\\Progra3\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\Pregunta2\\Properties\\Cancion.cs*",
+              "RelativeToolTip": "Pregunta2\\Properties\\Cancion.cs*",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAmwHIAAADtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T13:38:11.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Principal_P2.cs",
+              "DocumentMoniker": "C:\\Users\\luism\\Downloads\\7mo\\Progra3\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\Pregunta2\\Properties\\Principal_P2.cs",
+              "RelativeDocumentMoniker": "Pregunta2\\Properties\\Principal_P2.cs",
+              "ToolTip": "C:\\Users\\luism\\Downloads\\7mo\\Progra3\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\Pregunta2\\Properties\\Principal_P2.cs",
+              "RelativeToolTip": "Pregunta2\\Properties\\Principal_P2.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:44:40.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Principal_P1.cs",
+              "DocumentMoniker": "C:\\Users\\luism\\Downloads\\7mo\\Progra3\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda\\Principal_P1.cs",
+              "RelativeDocumentMoniker": "LAB2_2025_1_Miranda\\Principal_P1.cs",
+              "ToolTip": "C:\\Users\\luism\\Downloads\\7mo\\Progra3\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\LAB2_2025_1_Miranda\\Principal_P1.cs",
+              "RelativeToolTip": "LAB2_2025_1_Miranda\\Principal_P1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T06:21:45.527Z",
+              "EditorCaption": ""
             }
           ]
         }
