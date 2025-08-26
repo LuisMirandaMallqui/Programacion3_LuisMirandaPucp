@@ -33,14 +33,21 @@ namespace Pregunta2.Properties
         public List<string> Interpretes
         {
             get => interpretes;
-            set => interpretes = value;
+        }
+        public void AgregarInterpretes(string interprete)
+        {
+            interpretes.Add(interprete);
         }
 
         public List<string> Compositores
         {
             get => compositores;
-            set => compositores = value;
         }
+        public void AgregarCompositores(string compositor)
+        {
+            compositores.Add(compositor);
+        }
+
 
         public string Album
         {
@@ -102,9 +109,19 @@ namespace Pregunta2.Properties
         */
         public override string ToString()
         {
+         //   string resultado = $"PROCESO DE ADMISION: {cantidad_postulantes} postulantes, {cantidad_admitidos} admitidos\n\nLISTA DE ADMITIDOS:\n";
 
 
-            return;
+            string resultado = $"TITULO: {titulo}\nOTRO TITULO: {otro_titulo}\nINTERPRETADO POR: {string.Join(", ", interpretes)}\nCOMPUESTO POR: {string.Join(", ", compositores)}\nGENERO: {Funciones.CapitalizarPalabra(genero.ToString())}";
+            /*
+             TITULO: Cuando estoy triste
+             TAMBIEN CONOCIDA COMO: Cajita de música
+             INTERPRETADO POR: Mercedes Sosa
+             COMPUESTO POR: Jose Pedroni, Damián Sánchez
+             TIPO: Folklore
+             ALBUM: A que florezca mi puebl
+            */
+            return resultado;
         }
     }
 }

@@ -26,7 +26,9 @@ namespace LAB2_2025_1_Miranda
                 cantidad_admitidos++;
             }
         }
-
+        /// <summary>
+        ///  CONSTRUCTOR POR DEFECTO
+        /// </summary>
         public Admision()
         {
             lista_fichas = new List<FichaEvaluacion>();

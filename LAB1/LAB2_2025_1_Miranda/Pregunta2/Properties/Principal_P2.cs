@@ -7,8 +7,17 @@ namespace Pregunta2
     {
         static void Main(string[] args)
         {
-            CancionBuilder cancionBuilder = new CancionBuilder();
-            Cancion cancion = cancionBuilder;
+           //CancionBuilder cancionBuilder = new CancionBuilder();
+            //Cancion cancion = cancionBuilder;
+            Cancion cancion = new Cancion();
+            cancion.Titulo = "Cuando estoy triste";
+            cancion.AgregarInterpretes("Mercedes Sosa");
+            cancion.AgregarCompositores("Jose Pedroni");
+            cancion.AgregarCompositores("Damián Sánchez");
+            cancion.Genero = GeneroMusical.FOLKLORE;
+            cancion.Album  = "A que florezca mi pueblo";
+            cancion.OtroTitulo = "Cajita de música";
+            Console.WriteLine(cancion.ToString());
             /*
 
                 .ConTitulo("Cuando estoy triste")
