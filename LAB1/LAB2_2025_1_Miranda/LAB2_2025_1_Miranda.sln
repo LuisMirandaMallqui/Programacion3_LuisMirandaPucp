@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB2_2025_1_Miranda", "LAB2
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pregunta2", "Pregunta2\Pregunta2.csproj", "{962DBBC7-789A-430C-8912-64B3904FF350}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{DC4469E6-A174-4AB3-A221-9C381B8D809C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC4469E6-A174-4AB3-A221-9C381B8D809C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC4469E6-A174-4AB3-A221-9C381B8D809C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{962DBBC7-789A-430C-8912-64B3904FF350}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{962DBBC7-789A-430C-8912-64B3904FF350}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{962DBBC7-789A-430C-8912-64B3904FF350}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{962DBBC7-789A-430C-8912-64B3904FF350}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
