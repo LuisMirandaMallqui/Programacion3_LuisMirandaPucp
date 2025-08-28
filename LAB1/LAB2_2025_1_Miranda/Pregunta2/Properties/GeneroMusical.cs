@@ -1,4 +1,4 @@
-public enum GeneroMusical
+public enum Genero
 {
     FOLKLORE,
     CLASICA

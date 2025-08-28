@@ -13,10 +13,10 @@ namespace Pregunta2.Properties
         private List<string> interpretes;
         private List<string> compositores;
         private string album;
-        private string opus;
-        private string subOpus;
+        private int opus;
+        private int subOpus;
         private string dedicatoria;
-        private GeneroMusical genero;
+        private Genero genero;
         
         public string Titulo
         {
@@ -29,10 +29,20 @@ namespace Pregunta2.Properties
             get => otro_titulo;
             set => otro_titulo = value;
         }
-// las listas tienen setters y getters?
+
         public List<string> Interpretes
         {
-            get => interpretes;
+            get
+            {
+                return new List<string>(interpretes);
+            }
+            set
+            {
+                if (value != null)
+                {
+                    interpretes = new List<string>(value);
+                }
+            }
         }
         public void AgregarInterpretes(string interprete)
         {
@@ -41,13 +51,22 @@ namespace Pregunta2.Properties
 
         public List<string> Compositores
         {
-            get => compositores;
+            get
+            {
+                return new List<string>(compositores);
+            }
+            set
+            {
+                if (value != null)
+                {
+                    compositores = new List<string>(value);
+                }
+            }
         }
         public void AgregarCompositores(string compositor)
         {
             compositores.Add(compositor);
         }
-
 
         public string Album
         {
@@ -55,13 +74,13 @@ namespace Pregunta2.Properties
             set => album = value;
         }
 
-        public string Opus
+        public int Opus
         {
             get => opus;
             set => opus = value;
         }
 
-        public string SubOpus
+        public int SubOpus
         {
             get => subOpus;
             set => subOpus = value;
@@ -73,12 +92,15 @@ namespace Pregunta2.Properties
             set => dedicatoria = value;
         }
 
-        public GeneroMusical Genero
+        public Genero Genero
         {
             get => genero;
             set => genero = value;
         }
 
+        ///<summary>
+        ///Constructores
+        ///</summary>
         public Cancion()
         {
             this.titulo = null;
@@ -86,11 +108,9 @@ namespace Pregunta2.Properties
             this.interpretes = new List<string>(); 
             this.compositores = new List<string>(); 
             this.album = null;
-            this.opus = null;
-            this.subOpus = null;
             this.dedicatoria = null;
         }
-        public Cancion(string titulo, string otroTitulo, List<string> interpretes, List<string> compositores, string album, string opus, string subOpus, string dedicatoria, GeneroMusical genero)
+        public Cancion(string titulo, string otroTitulo, List<string> interpretes, List<string> compositores, string album, int opus, int subOpus, string dedicatoria, Genero genero)
         {
             this.titulo = titulo;
             this.otro_titulo = otroTitulo;
@@ -118,20 +138,19 @@ namespace Pregunta2.Properties
                 resultado += $"OTRO TITULO: {otro_titulo}\n";
             if(interpretes.Count > 0 && interpretes != null && !string.IsNullOrEmpty(interpretes[0]))
                 resultado += $"INTERPRETADO POR: {string.Join(", ", interpretes)}\n";
-            if(compositoresCount>0 && compositores != null && !string.IsNullOrEmpty(compositores[0]))
+            if(compositores.Count>0 && compositores != null && !string.IsNullOrEmpty(compositores[0]))
                 resultado += $"COMPUESTO POR: {string.Join(", ", compositores)}\n";
             if(!string.IsNullOrEmpty(genero.ToString()))
                 resultado += $"GENERO: {Funciones.CapitalizarPalabra(genero.ToString())}\n";
-            if (!string.IsNullOrEmpty(opus))
-                resultado += $"OPUS: {opus\n}";
-            if (!string.IsNullOrEmpty(subOpus))
-                resultado += $"OPUS: {subOpus\n}";
+            if (opus != 0)
+                resultado += $"OPUS: {opus}\n";
+            if (subOpus!=0)
+                resultado += $"SUBOPUS: {subOpus}\n";
             if (!string.IsNullOrEmpty(dedicatoria))
-                resultado += $"OPUS: {dedicatoria\n}";
+                resultado += $"DEDICATORIA: {dedicatoria}\n";
             if (!string.IsNullOrEmpty(album))
                 resultado += $"ALBUM: {album}\n";
 
-                INTERPRETADO POR: {string.Join(", ", interpretes)}\nCOMPUESTO POR: {string.Join(", ", compositores)}\nGENERO: {Funciones.CapitalizarPalabra(genero.ToString())}";
             /*
              TITULO: Cuando estoy triste
              TAMBIEN CONOCIDA COMO: Cajita de música

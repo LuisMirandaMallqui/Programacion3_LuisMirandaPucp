@@ -7,19 +7,8 @@ namespace Pregunta2
     {
         static void Main(string[] args)
         {
-           //CancionBuilder cancionBuilder = new CancionBuilder();
-            //Cancion cancion = cancionBuilder;
-            Cancion cancion = new Cancion();
-            cancion.Titulo = "Cuando estoy triste";
-            cancion.AgregarInterpretes("Mercedes Sosa");
-            cancion.AgregarCompositores("Jose Pedroni");
-            cancion.AgregarCompositores("Damián Sánchez");
-            cancion.Genero = GeneroMusical.FOLKLORE;
-            cancion.Album  = "A que florezca mi pueblo";
-            cancion.OtroTitulo = "Cajita de música";
-            Console.WriteLine(cancion.ToString());
-            /*
-
+            CancionBuilder cancionBuilder = new CancionBuilder();
+            Cancion cancion = cancionBuilder
                 .ConTitulo("Cuando estoy triste")
                 .TambienConocidaComo("Cajita de música")
                 .InterpretadoPor("Mercedes Sosa")
@@ -51,7 +40,6 @@ namespace Pregunta2
                 .BuildCancion();
             Console.WriteLine(cancion);
             Console.WriteLine();
-            */
             Console.Write("HOla");
         }
     }
