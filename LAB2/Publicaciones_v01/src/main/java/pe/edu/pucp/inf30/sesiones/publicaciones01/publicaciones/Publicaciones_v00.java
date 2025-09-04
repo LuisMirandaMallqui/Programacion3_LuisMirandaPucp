@@ -1,5 +1,9 @@
 package pe.edu.pucp.inf30.sesiones.publicaciones01.publicaciones;
 
+import pe.edu.pucp.inf30.sesiones.publicaciones01.publicaciones.estandarIEEE.Tesis;
+import pe.edu.pucp.inf30.sesiones.publicaciones01.publicaciones.estandarIEEE.Libro;
+import pe.edu.pucp.inf30.sesiones.publicaciones01.publicaciones.estandarIEEE.Articulo;
+
 public class Publicaciones_v00 {
 
     public static void main(String[] args) {

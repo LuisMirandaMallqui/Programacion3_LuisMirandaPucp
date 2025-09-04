@@ -34,8 +34,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -81,9 +85,9 @@
               "Title": "Cancion.cs",
               "DocumentMoniker": "C:\\Users\\luism\\Downloads\\7mo\\Progra3\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\Pregunta2\\Properties\\Cancion.cs",
               "RelativeDocumentMoniker": "Pregunta2\\Properties\\Cancion.cs",
-              "ToolTip": "C:\\Users\\luism\\Downloads\\7mo\\Progra3\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\Pregunta2\\Properties\\Cancion.cs*",
-              "RelativeToolTip": "Pregunta2\\Properties\\Cancion.cs*",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAmwHIAAADtAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\luism\\Downloads\\7mo\\Progra3\\Programacion3_LuisMirandaPucp\\LAB1\\LAB2_2025_1_Miranda\\Pregunta2\\Properties\\Cancion.cs",
+              "RelativeToolTip": "Pregunta2\\Properties\\Cancion.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAiwHsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-26T13:38:11.99Z",
               "EditorCaption": ""
