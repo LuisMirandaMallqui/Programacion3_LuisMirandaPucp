@@ -4,6 +4,7 @@
  */
 package com.mycompany.softlnvdbmanager;
 
+import com.mycompany.softlnvdbmanager.util.Cifrado;
 import java.sql.Connection;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
@@ -18,13 +19,20 @@ public class DBManagerTest {
         // TODO review the generated test code and remove the default call to fail.
 //        no se puede hacer porque el constructor es privado
 //        DBManager dbManager = new DBManager();
+
         System.out.println("getInstance");
         DBManager dbManager = DBManager.getInstance();
         assertNotNull(dbManager);
+
     }
 
     @org.junit.jupiter.api.Test
     public void testGetConnection() {
+//        aca uso este codigo para cifrar mi contra xdd
+//        String contraseña = "pacoflaco123";
+//        String contraseñaCifrada = Cifrado.cifrarMD5(contraseña);
+//        System.out.println("Contraseña cifrada: " + contraseñaCifrada);
+
         System.out.println("getConnection");
         DBManager dbManager = DBManager.getInstance();
         Connection conexion = dbManager.getConnection();
