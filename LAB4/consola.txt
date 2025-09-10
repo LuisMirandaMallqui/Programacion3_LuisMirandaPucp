@@ -1,0 +1,30 @@
+javac carpeta/*.java carpeta1/*.java
+
+javac carpetamain/Principal
+
+Para crear jar:
+1. Crear los .class (Compilar)
+	javac carpeta/*.java
+2. Crear los jars usando los .class
+	jar cf nombreJar.jar carpeta/*.class
+
+Para compilar con jar:
+	javac -cp nombreJar.jar; carpeta/Principal.java
+Para compilar con varios jar:
+	javac -cp nombreJar.jar; jar2.jar; jar3.jar;  carpeta/Principal.java
+
+Para ejecutar usando jar:
+	java -cp nombreJar.jar; carpeta/Principal.java
+
+Para crear jar ejecutable:
+	1. CREAR MANIFEST.MF
+			Class-Path: matematicas.jar
+			Main-Class: principales/Principal
+			(darle 3 lineas en blanco)
+			
+	2.Crear jar:
+		jar -cfm nombreJar.jar MANIFEST.MF principales/*.class
+
+Ejecutar usando solo jar:
+	java -jar principales.jar
+	//Ya no se usa -cp pues está definido en el class-path del manifest.
