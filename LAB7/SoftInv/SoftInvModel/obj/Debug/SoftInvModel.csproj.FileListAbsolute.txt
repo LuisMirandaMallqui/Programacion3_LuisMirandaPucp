@@ -4,3 +4,9 @@ D:\Users\alulab14\Programacion3_LuisMirandaPucp\LAB7\SoftInv\SoftInvModel\obj\De
 D:\Users\alulab14\Programacion3_LuisMirandaPucp\LAB7\SoftInv\SoftInvModel\obj\Debug\SoftInvModel.csproj.CoreCompileInputs.cache
 D:\Users\alulab14\Programacion3_LuisMirandaPucp\LAB7\SoftInv\SoftInvModel\obj\Debug\SoftInvModel.dll
 D:\Users\alulab14\Programacion3_LuisMirandaPucp\LAB7\SoftInv\SoftInvModel\obj\Debug\SoftInvModel.pdb
+C:\Users\luism\Downloads\7mo\Progra3\Programacion3_LuisMirandaPucp\LAB7\SoftInv\SoftInvModel\bin\Debug\SoftInvModel.dll
+C:\Users\luism\Downloads\7mo\Progra3\Programacion3_LuisMirandaPucp\LAB7\SoftInv\SoftInvModel\bin\Debug\SoftInvModel.pdb
+C:\Users\luism\Downloads\7mo\Progra3\Programacion3_LuisMirandaPucp\LAB7\SoftInv\SoftInvModel\obj\Debug\SoftInvModel.csproj.AssemblyReference.cache
+C:\Users\luism\Downloads\7mo\Progra3\Programacion3_LuisMirandaPucp\LAB7\SoftInv\SoftInvModel\obj\Debug\SoftInvModel.csproj.CoreCompileInputs.cache
+C:\Users\luism\Downloads\7mo\Progra3\Programacion3_LuisMirandaPucp\LAB7\SoftInv\SoftInvModel\obj\Debug\SoftInvModel.dll
+C:\Users\luism\Downloads\7mo\Progra3\Programacion3_LuisMirandaPucp\LAB7\SoftInv\SoftInvModel\obj\Debug\SoftInvModel.pdb
