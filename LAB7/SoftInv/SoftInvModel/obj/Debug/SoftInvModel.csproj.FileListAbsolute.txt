@@ -1,0 +1,6 @@
+D:\Users\alulab14\Programacion3_LuisMirandaPucp\LAB7\SoftInv\SoftInvModel\bin\Debug\SoftInvModel.dll
+D:\Users\alulab14\Programacion3_LuisMirandaPucp\LAB7\SoftInv\SoftInvModel\bin\Debug\SoftInvModel.pdb
+D:\Users\alulab14\Programacion3_LuisMirandaPucp\LAB7\SoftInv\SoftInvModel\obj\Debug\SoftInvModel.csproj.AssemblyReference.cache
+D:\Users\alulab14\Programacion3_LuisMirandaPucp\LAB7\SoftInv\SoftInvModel\obj\Debug\SoftInvModel.csproj.CoreCompileInputs.cache
+D:\Users\alulab14\Programacion3_LuisMirandaPucp\LAB7\SoftInv\SoftInvModel\obj\Debug\SoftInvModel.dll
+D:\Users\alulab14\Programacion3_LuisMirandaPucp\LAB7\SoftInv\SoftInvModel\obj\Debug\SoftInvModel.pdb

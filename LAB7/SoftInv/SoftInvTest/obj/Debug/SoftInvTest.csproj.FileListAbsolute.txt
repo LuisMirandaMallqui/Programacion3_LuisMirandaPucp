@@ -123,3 +123,9 @@ D:\Users\alulab14\Programacion3_LuisMirandaPucp\LAB7\SoftInv\SoftInvTest\bin\Deb
 D:\Users\alulab14\Programacion3_LuisMirandaPucp\LAB7\SoftInv\SoftInvTest\bin\Debug\System.Security.Cryptography.Pkcs.dll
 D:\Users\alulab14\Programacion3_LuisMirandaPucp\LAB7\SoftInv\SoftInvTest\bin\Debug\Microsoft.Bcl.Cryptography.xml
 D:\Users\alulab14\Programacion3_LuisMirandaPucp\LAB7\SoftInv\SoftInvTest\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\Users\alulab14\Programacion3_LuisMirandaPucp\LAB7\SoftInv\SoftInvTest\bin\Debug\SoftInvBusiness.dll
+D:\Users\alulab14\Programacion3_LuisMirandaPucp\LAB7\SoftInv\SoftInvTest\bin\Debug\SoftInvPersistance.dll
+D:\Users\alulab14\Programacion3_LuisMirandaPucp\LAB7\SoftInv\SoftInvTest\bin\Debug\SoftInvModel.dll
+D:\Users\alulab14\Programacion3_LuisMirandaPucp\LAB7\SoftInv\SoftInvTest\bin\Debug\SoftInvBusiness.pdb
+D:\Users\alulab14\Programacion3_LuisMirandaPucp\LAB7\SoftInv\SoftInvTest\bin\Debug\SoftInvPersistance.pdb
+D:\Users\alulab14\Programacion3_LuisMirandaPucp\LAB7\SoftInv\SoftInvTest\bin\Debug\SoftInvModel.pdb

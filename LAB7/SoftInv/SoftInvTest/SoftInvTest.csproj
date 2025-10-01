@@ -176,6 +176,7 @@
   <ItemGroup>
     <Compile Include="DBManagerTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SoftInvBOTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -185,6 +186,10 @@
     <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\SoftInvBusiness\SoftInvBusiness.csproj">
+      <Project>{5c8de09a-5843-480b-884f-ee3f978eb4a5}</Project>
+      <Name>SoftInvBusiness</Name>
+    </ProjectReference>
     <ProjectReference Include="..\SoftInvDBManager\SoftInvDBManager.csproj">
       <Project>{3a690520-13d1-495d-8281-26a41c94b848}</Project>
       <Name>SoftInvDBManager</Name>
