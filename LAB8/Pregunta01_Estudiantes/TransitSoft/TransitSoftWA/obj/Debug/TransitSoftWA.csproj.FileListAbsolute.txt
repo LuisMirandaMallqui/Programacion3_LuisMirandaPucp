@@ -1,0 +1,40 @@
+D:\Users\alulab14\Downloads\ExamenParcial - PROGRAMACION 3 - 1INF30 - 2025-2\Pregunta01_Estudiantes\TransitSoft\TransitSoftWA\bin\TransitSoftWA.dll.config
+D:\Users\alulab14\Downloads\ExamenParcial - PROGRAMACION 3 - 1INF30 - 2025-2\Pregunta01_Estudiantes\TransitSoft\TransitSoftWA\bin\TransitSoftWA.dll
+D:\Users\alulab14\Downloads\ExamenParcial - PROGRAMACION 3 - 1INF30 - 2025-2\Pregunta01_Estudiantes\TransitSoft\TransitSoftWA\bin\TransitSoftWA.pdb
+D:\Users\alulab14\Downloads\ExamenParcial - PROGRAMACION 3 - 1INF30 - 2025-2\Pregunta01_Estudiantes\TransitSoft\TransitSoftWA\bin\DataAccess.dll
+D:\Users\alulab14\Downloads\ExamenParcial - PROGRAMACION 3 - 1INF30 - 2025-2\Pregunta01_Estudiantes\TransitSoft\TransitSoftWA\bin\MySql.Data.dll
+D:\Users\alulab14\Downloads\ExamenParcial - PROGRAMACION 3 - 1INF30 - 2025-2\Pregunta01_Estudiantes\TransitSoft\TransitSoftWA\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\alulab14\Downloads\ExamenParcial - PROGRAMACION 3 - 1INF30 - 2025-2\Pregunta01_Estudiantes\TransitSoft\TransitSoftWA\bin\System.Threading.Tasks.Extensions.dll
+D:\Users\alulab14\Downloads\ExamenParcial - PROGRAMACION 3 - 1INF30 - 2025-2\Pregunta01_Estudiantes\TransitSoft\TransitSoftWA\bin\TransitSoftBusiness.dll
+D:\Users\alulab14\Downloads\ExamenParcial - PROGRAMACION 3 - 1INF30 - 2025-2\Pregunta01_Estudiantes\TransitSoft\TransitSoftWA\bin\TransitSoftDBManager.dll
+D:\Users\alulab14\Downloads\ExamenParcial - PROGRAMACION 3 - 1INF30 - 2025-2\Pregunta01_Estudiantes\TransitSoft\TransitSoftWA\bin\System.Memory.dll
+D:\Users\alulab14\Downloads\ExamenParcial - PROGRAMACION 3 - 1INF30 - 2025-2\Pregunta01_Estudiantes\TransitSoft\TransitSoftWA\bin\System.Numerics.Vectors.dll
+D:\Users\alulab14\Downloads\ExamenParcial - PROGRAMACION 3 - 1INF30 - 2025-2\Pregunta01_Estudiantes\TransitSoft\TransitSoftWA\bin\TransitSoftBusiness.pdb
+D:\Users\alulab14\Downloads\ExamenParcial - PROGRAMACION 3 - 1INF30 - 2025-2\Pregunta01_Estudiantes\TransitSoft\TransitSoftWA\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Users\alulab14\Downloads\ExamenParcial - PROGRAMACION 3 - 1INF30 - 2025-2\Pregunta01_Estudiantes\TransitSoft\TransitSoftWA\bin\System.Threading.Tasks.Extensions.xml
+D:\Users\alulab14\Downloads\ExamenParcial - PROGRAMACION 3 - 1INF30 - 2025-2\Pregunta01_Estudiantes\TransitSoft\TransitSoftWA\bin\TransitSoftDBManager.pdb
+D:\Users\alulab14\Downloads\ExamenParcial - PROGRAMACION 3 - 1INF30 - 2025-2\Pregunta01_Estudiantes\TransitSoft\TransitSoftWA\obj\Debug\TransitSoftWA.csproj.AssemblyReference.cache
+D:\Users\alulab14\Downloads\ExamenParcial - PROGRAMACION 3 - 1INF30 - 2025-2\Pregunta01_Estudiantes\TransitSoft\TransitSoftWA\obj\Debug\TransitSoftWA.csproj.CoreCompileInputs.cache
+D:\Users\alulab14\Downloads\ExamenParcial - PROGRAMACION 3 - 1INF30 - 2025-2\Pregunta01_Estudiantes\TransitSoft\TransitSoftWA\obj\Debug\TransitS.0CA73F5D.Up2Date
+D:\Users\alulab14\Downloads\ExamenParcial - PROGRAMACION 3 - 1INF30 - 2025-2\Pregunta01_Estudiantes\TransitSoft\TransitSoftWA\obj\Debug\TransitSoftWA.dll
+D:\Users\alulab14\Downloads\ExamenParcial - PROGRAMACION 3 - 1INF30 - 2025-2\Pregunta01_Estudiantes\TransitSoft\TransitSoftWA\obj\Debug\TransitSoftWA.pdb
+D:\SeptimoCiclo\Progra3\Programacion3_LuisMirandaPucp\LAB8\Pregunta01_Estudiantes\TransitSoft\TransitSoftWA\bin\TransitSoftWA.dll.config
+D:\SeptimoCiclo\Progra3\Programacion3_LuisMirandaPucp\LAB8\Pregunta01_Estudiantes\TransitSoft\TransitSoftWA\bin\TransitSoftWA.dll
+D:\SeptimoCiclo\Progra3\Programacion3_LuisMirandaPucp\LAB8\Pregunta01_Estudiantes\TransitSoft\TransitSoftWA\bin\TransitSoftWA.pdb
+D:\SeptimoCiclo\Progra3\Programacion3_LuisMirandaPucp\LAB8\Pregunta01_Estudiantes\TransitSoft\TransitSoftWA\bin\DataAccess.dll
+D:\SeptimoCiclo\Progra3\Programacion3_LuisMirandaPucp\LAB8\Pregunta01_Estudiantes\TransitSoft\TransitSoftWA\bin\MySql.Data.dll
+D:\SeptimoCiclo\Progra3\Programacion3_LuisMirandaPucp\LAB8\Pregunta01_Estudiantes\TransitSoft\TransitSoftWA\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\SeptimoCiclo\Progra3\Programacion3_LuisMirandaPucp\LAB8\Pregunta01_Estudiantes\TransitSoft\TransitSoftWA\bin\System.Threading.Tasks.Extensions.dll
+D:\SeptimoCiclo\Progra3\Programacion3_LuisMirandaPucp\LAB8\Pregunta01_Estudiantes\TransitSoft\TransitSoftWA\bin\TransitSoftBusiness.dll
+D:\SeptimoCiclo\Progra3\Programacion3_LuisMirandaPucp\LAB8\Pregunta01_Estudiantes\TransitSoft\TransitSoftWA\bin\TransitSoftDBManager.dll
+D:\SeptimoCiclo\Progra3\Programacion3_LuisMirandaPucp\LAB8\Pregunta01_Estudiantes\TransitSoft\TransitSoftWA\bin\System.Memory.dll
+D:\SeptimoCiclo\Progra3\Programacion3_LuisMirandaPucp\LAB8\Pregunta01_Estudiantes\TransitSoft\TransitSoftWA\bin\System.Numerics.Vectors.dll
+D:\SeptimoCiclo\Progra3\Programacion3_LuisMirandaPucp\LAB8\Pregunta01_Estudiantes\TransitSoft\TransitSoftWA\bin\TransitSoftBusiness.pdb
+D:\SeptimoCiclo\Progra3\Programacion3_LuisMirandaPucp\LAB8\Pregunta01_Estudiantes\TransitSoft\TransitSoftWA\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\SeptimoCiclo\Progra3\Programacion3_LuisMirandaPucp\LAB8\Pregunta01_Estudiantes\TransitSoft\TransitSoftWA\bin\System.Threading.Tasks.Extensions.xml
+D:\SeptimoCiclo\Progra3\Programacion3_LuisMirandaPucp\LAB8\Pregunta01_Estudiantes\TransitSoft\TransitSoftWA\bin\TransitSoftDBManager.pdb
+D:\SeptimoCiclo\Progra3\Programacion3_LuisMirandaPucp\LAB8\Pregunta01_Estudiantes\TransitSoft\TransitSoftWA\obj\Debug\TransitSoftWA.csproj.AssemblyReference.cache
+D:\SeptimoCiclo\Progra3\Programacion3_LuisMirandaPucp\LAB8\Pregunta01_Estudiantes\TransitSoft\TransitSoftWA\obj\Debug\TransitSoftWA.csproj.CoreCompileInputs.cache
+D:\SeptimoCiclo\Progra3\Programacion3_LuisMirandaPucp\LAB8\Pregunta01_Estudiantes\TransitSoft\TransitSoftWA\obj\Debug\TransitS.0CA73F5D.Up2Date
+D:\SeptimoCiclo\Progra3\Programacion3_LuisMirandaPucp\LAB8\Pregunta01_Estudiantes\TransitSoft\TransitSoftWA\obj\Debug\TransitSoftWA.dll
+D:\SeptimoCiclo\Progra3\Programacion3_LuisMirandaPucp\LAB8\Pregunta01_Estudiantes\TransitSoft\TransitSoftWA\obj\Debug\TransitSoftWA.pdb

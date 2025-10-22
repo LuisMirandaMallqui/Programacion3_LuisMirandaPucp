@@ -1,0 +1,26 @@
+D:\Users\alulab14\Downloads\ExamenParcial - PROGRAMACION 3 - 1INF30 - 2025-2\Pregunta01_Estudiantes\TransitSoft\TransitSoftBusiness\bin\Debug\TransitSoftBusiness.dll
+D:\Users\alulab14\Downloads\ExamenParcial - PROGRAMACION 3 - 1INF30 - 2025-2\Pregunta01_Estudiantes\TransitSoft\TransitSoftBusiness\bin\Debug\TransitSoftBusiness.pdb
+D:\Users\alulab14\Downloads\ExamenParcial - PROGRAMACION 3 - 1INF30 - 2025-2\Pregunta01_Estudiantes\TransitSoft\TransitSoftBusiness\bin\Debug\DataAccess.dll
+D:\Users\alulab14\Downloads\ExamenParcial - PROGRAMACION 3 - 1INF30 - 2025-2\Pregunta01_Estudiantes\TransitSoft\TransitSoftBusiness\bin\Debug\TransitSoftDBManager.dll
+D:\Users\alulab14\Downloads\ExamenParcial - PROGRAMACION 3 - 1INF30 - 2025-2\Pregunta01_Estudiantes\TransitSoft\TransitSoftBusiness\bin\Debug\MySql.Data.dll
+D:\Users\alulab14\Downloads\ExamenParcial - PROGRAMACION 3 - 1INF30 - 2025-2\Pregunta01_Estudiantes\TransitSoft\TransitSoftBusiness\bin\Debug\System.Memory.dll
+D:\Users\alulab14\Downloads\ExamenParcial - PROGRAMACION 3 - 1INF30 - 2025-2\Pregunta01_Estudiantes\TransitSoft\TransitSoftBusiness\bin\Debug\System.Numerics.Vectors.dll
+D:\Users\alulab14\Downloads\ExamenParcial - PROGRAMACION 3 - 1INF30 - 2025-2\Pregunta01_Estudiantes\TransitSoft\TransitSoftBusiness\bin\Debug\TransitSoftDBManager.pdb
+D:\Users\alulab14\Downloads\ExamenParcial - PROGRAMACION 3 - 1INF30 - 2025-2\Pregunta01_Estudiantes\TransitSoft\TransitSoftBusiness\obj\Debug\TransitSoftBusiness.csproj.AssemblyReference.cache
+D:\Users\alulab14\Downloads\ExamenParcial - PROGRAMACION 3 - 1INF30 - 2025-2\Pregunta01_Estudiantes\TransitSoft\TransitSoftBusiness\obj\Debug\TransitSoftBusiness.csproj.CoreCompileInputs.cache
+D:\Users\alulab14\Downloads\ExamenParcial - PROGRAMACION 3 - 1INF30 - 2025-2\Pregunta01_Estudiantes\TransitSoft\TransitSoftBusiness\obj\Debug\TransitS.3EA9CF0B.Up2Date
+D:\Users\alulab14\Downloads\ExamenParcial - PROGRAMACION 3 - 1INF30 - 2025-2\Pregunta01_Estudiantes\TransitSoft\TransitSoftBusiness\obj\Debug\TransitSoftBusiness.dll
+D:\Users\alulab14\Downloads\ExamenParcial - PROGRAMACION 3 - 1INF30 - 2025-2\Pregunta01_Estudiantes\TransitSoft\TransitSoftBusiness\obj\Debug\TransitSoftBusiness.pdb
+D:\SeptimoCiclo\Progra3\Programacion3_LuisMirandaPucp\LAB8\Pregunta01_Estudiantes\TransitSoft\TransitSoftBusiness\bin\Debug\TransitSoftBusiness.dll
+D:\SeptimoCiclo\Progra3\Programacion3_LuisMirandaPucp\LAB8\Pregunta01_Estudiantes\TransitSoft\TransitSoftBusiness\bin\Debug\TransitSoftBusiness.pdb
+D:\SeptimoCiclo\Progra3\Programacion3_LuisMirandaPucp\LAB8\Pregunta01_Estudiantes\TransitSoft\TransitSoftBusiness\bin\Debug\DataAccess.dll
+D:\SeptimoCiclo\Progra3\Programacion3_LuisMirandaPucp\LAB8\Pregunta01_Estudiantes\TransitSoft\TransitSoftBusiness\bin\Debug\TransitSoftDBManager.dll
+D:\SeptimoCiclo\Progra3\Programacion3_LuisMirandaPucp\LAB8\Pregunta01_Estudiantes\TransitSoft\TransitSoftBusiness\bin\Debug\MySql.Data.dll
+D:\SeptimoCiclo\Progra3\Programacion3_LuisMirandaPucp\LAB8\Pregunta01_Estudiantes\TransitSoft\TransitSoftBusiness\bin\Debug\System.Memory.dll
+D:\SeptimoCiclo\Progra3\Programacion3_LuisMirandaPucp\LAB8\Pregunta01_Estudiantes\TransitSoft\TransitSoftBusiness\bin\Debug\System.Numerics.Vectors.dll
+D:\SeptimoCiclo\Progra3\Programacion3_LuisMirandaPucp\LAB8\Pregunta01_Estudiantes\TransitSoft\TransitSoftBusiness\bin\Debug\TransitSoftDBManager.pdb
+D:\SeptimoCiclo\Progra3\Programacion3_LuisMirandaPucp\LAB8\Pregunta01_Estudiantes\TransitSoft\TransitSoftBusiness\obj\Debug\TransitSoftBusiness.csproj.AssemblyReference.cache
+D:\SeptimoCiclo\Progra3\Programacion3_LuisMirandaPucp\LAB8\Pregunta01_Estudiantes\TransitSoft\TransitSoftBusiness\obj\Debug\TransitSoftBusiness.csproj.CoreCompileInputs.cache
+D:\SeptimoCiclo\Progra3\Programacion3_LuisMirandaPucp\LAB8\Pregunta01_Estudiantes\TransitSoft\TransitSoftBusiness\obj\Debug\TransitS.3EA9CF0B.Up2Date
+D:\SeptimoCiclo\Progra3\Programacion3_LuisMirandaPucp\LAB8\Pregunta01_Estudiantes\TransitSoft\TransitSoftBusiness\obj\Debug\TransitSoftBusiness.dll
+D:\SeptimoCiclo\Progra3\Programacion3_LuisMirandaPucp\LAB8\Pregunta01_Estudiantes\TransitSoft\TransitSoftBusiness\obj\Debug\TransitSoftBusiness.pdb

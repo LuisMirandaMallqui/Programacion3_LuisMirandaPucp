@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransitSoftWA", "TransitSoftWA\TransitSoftWA.csproj", "{6FB65981-C92A-446D-96C5-2A939A7AB6D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransitSoftBusiness", "TransitSoftBusiness\TransitSoftBusiness.csproj", "{E1CA3C46-8F9A-4E2F-AAA0-0045767293DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransitSoftDBManager", "TransitSoftDBManager\TransitSoftDBManager.csproj", "{6F61966A-F5E1-4432-92E1-9E461E57CFDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransitSoftTest", "TransitSoftTest\TransitSoftTest.csproj", "{5CF6F16F-023B-4ACD-8999-9CE83759283D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FB65981-C92A-446D-96C5-2A939A7AB6D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FB65981-C92A-446D-96C5-2A939A7AB6D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FB65981-C92A-446D-96C5-2A939A7AB6D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FB65981-C92A-446D-96C5-2A939A7AB6D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1CA3C46-8F9A-4E2F-AAA0-0045767293DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1CA3C46-8F9A-4E2F-AAA0-0045767293DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1CA3C46-8F9A-4E2F-AAA0-0045767293DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1CA3C46-8F9A-4E2F-AAA0-0045767293DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F61966A-F5E1-4432-92E1-9E461E57CFDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F61966A-F5E1-4432-92E1-9E461E57CFDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F61966A-F5E1-4432-92E1-9E461E57CFDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F61966A-F5E1-4432-92E1-9E461E57CFDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CF6F16F-023B-4ACD-8999-9CE83759283D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CF6F16F-023B-4ACD-8999-9CE83759283D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CF6F16F-023B-4ACD-8999-9CE83759283D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CF6F16F-023B-4ACD-8999-9CE83759283D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88ED2C3D-646D-4670-B8A1-EFAD4152DAD0}
+	EndGlobalSection
+EndGlobal

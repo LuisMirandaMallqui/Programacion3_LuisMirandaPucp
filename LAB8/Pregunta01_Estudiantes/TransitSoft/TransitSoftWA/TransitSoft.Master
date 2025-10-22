@@ -1,0 +1,83 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="TransitSoft.master.cs" Inherits="TransitSoftWA.TransitSoft" %>
+<!DOCTYPE html>
+<html lang="es">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <link href="Fonts/css/all.css" rel="stylesheet" />
+    <link href="Content/site.css" rel="stylesheet" />
+
+    <script src="Scripts/bootstrap.js"></script>
+    <script src="Scripts/bootstrap.bundle.js"></script>
+    <script src="Scripts/jquery-3.7.1.js"></script>
+
+    <title>
+        <asp:ContentPlaceHolder ID="cph_Title" runat="server">
+        </asp:ContentPlaceHolder>
+    </title>
+
+    <asp:ContentPlaceHolder ID="cph_Scripts" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <div id="divGeneral" class="container-fluid d-flex p-0 h-100">
+        <!-- Division de la izquierda -->
+        <div id="bdSidebar" class="d-flex flex-column flex-shrink-0 p-3 bg-primary text-white offcanvas-md offcanvas-start">
+            <a href="Home.aspx" class="navbar-brand">
+                <img src="Images/pucp.png" width="150"/>
+            </a>
+            <hr />
+            <ul class="mynav nav nav-pills flex-column mb-auto">
+                <li class="nav-item mb-1">
+                    <a href="ListarVehiculosDePropietario.aspx">
+                        <i class="fa-solid fa-cars pe-2"></i>Listar Vehículos de Propietarios
+                    </a>
+                </li>
+            </ul>
+            <hr />
+            <div class="d-flex">
+                <i class="fa-solid fa-book me-2"></i>
+                <h6 class="mt-1 mb-0">PUCP - Programación 3</h6>
+            </div>
+        </div>
+        <!-- Division de la derecha -->
+        <div class="bg-light flex-fill overflow-auto">
+            <!-- Barra superior para dispositivos pequeños -->
+            <div class="p-2 d-md-none d-flex text-white bg-primary">
+                <a data-bs-toggle="offcanvas" data-bs-target="#bdSidebar" class="text-white" href="#">
+                    <i class="fa-solid fa-bars"></i>
+                </a>
+            </div>
+            <!-- Barra superior de usuario -->
+            <nav class="navbar navbar-dark bg-primary">
+                <div class="container-fluid">
+                    <a class="navbar-brand d-sm-none d-md-block d-none d-sm-block" href="#">
+                        Software para el Curso de Programacion 3
+                    </a>
+                    <form class="d-flex">
+                        <div class="dropdown ps-3">
+                            <button class="btn btn-outline-light dropdown-toggle" id="btnUsuario" data-bs-toggle="dropdown" type="button" aria-expanded="false">
+                                <i class="fas fa-user me-2"></i>
+                                <asp:Label ID="lblNombreCompleto" runat="server" Text="Usuario"></asp:Label>
+                            </button>
+                            <ul class="dropdown-menu" aria-labelledby="btnUsuario">
+                                <li><a class="dropdown-item" href="#">Perfil</a></li>
+                                <li><a class="dropdown-item" href="#">Cambiar contraseña</a></li>
+                                <li><a class="dropdown-item" href="#">Cerrar Sesión</a></li>
+                            </ul>
+                        </div>
+                    </form>
+                </div>
+            </nav>
+            <!-- Contenido de la Pagina web -->
+            <div class="p-4">
+                <form runat="server">
+                    <asp:ContentPlaceHolder ID="cph_Contenido" runat="server">
+                    </asp:ContentPlaceHolder>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

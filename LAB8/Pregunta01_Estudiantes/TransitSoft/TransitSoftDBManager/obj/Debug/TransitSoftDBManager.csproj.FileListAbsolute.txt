@@ -1,0 +1,6 @@
+D:\Users\alulab14\Downloads\ExamenParcial - PROGRAMACION 3 - 1INF30 - 2025-2\Pregunta01_Estudiantes\TransitSoft\TransitSoftDBManager\bin\Debug\TransitSoftDBManager.dll
+D:\Users\alulab14\Downloads\ExamenParcial - PROGRAMACION 3 - 1INF30 - 2025-2\Pregunta01_Estudiantes\TransitSoft\TransitSoftDBManager\bin\Debug\TransitSoftDBManager.pdb
+D:\Users\alulab14\Downloads\ExamenParcial - PROGRAMACION 3 - 1INF30 - 2025-2\Pregunta01_Estudiantes\TransitSoft\TransitSoftDBManager\obj\Debug\TransitSoftDBManager.csproj.AssemblyReference.cache
+D:\Users\alulab14\Downloads\ExamenParcial - PROGRAMACION 3 - 1INF30 - 2025-2\Pregunta01_Estudiantes\TransitSoft\TransitSoftDBManager\obj\Debug\TransitSoftDBManager.csproj.CoreCompileInputs.cache
+D:\Users\alulab14\Downloads\ExamenParcial - PROGRAMACION 3 - 1INF30 - 2025-2\Pregunta01_Estudiantes\TransitSoft\TransitSoftDBManager\obj\Debug\TransitSoftDBManager.dll
+D:\Users\alulab14\Downloads\ExamenParcial - PROGRAMACION 3 - 1INF30 - 2025-2\Pregunta01_Estudiantes\TransitSoft\TransitSoftDBManager\obj\Debug\TransitSoftDBManager.pdb
