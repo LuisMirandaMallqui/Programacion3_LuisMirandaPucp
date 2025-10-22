@@ -1,0 +1,21 @@
+{
+  "id" : 0,
+  "placa" : "GHI-789",
+  "velodicad" : 55.1,
+  "limite" : 50.0,
+  "exceso" : 5.100000000000001,
+  "marcaVehiculo" : "Honda",
+  "modeloVehiculo" : "Civic",
+  "anhoVehiculo" : 2016,
+  "dniPropietario" : "91234567",
+  "nombresPropietario" : "Fernando",
+  "apellidosPropietario" : "Castro Medina",
+  "direccionPropietario" : "Jr. Ica 234, Cercado de Lima",
+  "modeloCamara" : null,
+  "codigoSerieCamara" : null,
+  "latitud" : 0,
+  "longitud" : 0,
+  "monto" : 950.0,
+  "fechaCaptura" : 1758334800000,
+  "fechaRegistro" : 1758499331167
+}

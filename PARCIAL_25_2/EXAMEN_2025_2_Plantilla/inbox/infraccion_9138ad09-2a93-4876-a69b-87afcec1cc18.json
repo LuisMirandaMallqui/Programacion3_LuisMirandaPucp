@@ -1,0 +1,20 @@
+{
+  "placa": "DEF-456",
+  "velocidad": 60.2,
+  "limite": 50.0,
+  "exceso": 10.200000000000003,
+  "marcaVehiculo": "Chevrolet",
+  "modeloVehiculo": "Spark",
+  "anhoVehiculo": 2017,
+  "dniPropietario": "78901234",
+  "nombresPropietario": "Ana",
+  "apellidosPropietario": "García Paredes",
+  "direccionPropietario": "Calle Los Cedros 245, Surco",
+  "modeloCamara": "Dahua",
+  "codigoSerieCamara": "CAM-LIM-002",
+  "latitud": -12049876,
+  "longitud": -77038901,
+  "monto": 950.0,
+  "fechaCaptura": 1760535613940,
+  "fechaRegistro": 1760535613940
+}

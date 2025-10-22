@@ -1,0 +1,21 @@
+{
+  "id" : 0,
+  "placa" : "WXY-345",
+  "velodicad" : 66.3,
+  "limite" : 50.0,
+  "exceso" : 16.299999999999997,
+  "marcaVehiculo" : "Volkswagen",
+  "modeloVehiculo" : "Jetta",
+  "anhoVehiculo" : 2021,
+  "dniPropietario" : "91234567",
+  "nombresPropietario" : "Fernando",
+  "apellidosPropietario" : "Castro Medina",
+  "direccionPropietario" : "Jr. Ica 234, Cercado de Lima",
+  "modeloCamara" : null,
+  "codigoSerieCamara" : null,
+  "latitud" : 0,
+  "longitud" : 0,
+  "monto" : 950.0,
+  "fechaCaptura" : 1758309900000,
+  "fechaRegistro" : 1758499331168
+}

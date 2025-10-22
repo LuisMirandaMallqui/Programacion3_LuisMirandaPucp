@@ -1,0 +1,21 @@
+{
+  "id" : 0,
+  "placa" : "ZAB-567",
+  "velodicad" : 57.9,
+  "limite" : 50.0,
+  "exceso" : 7.899999999999999,
+  "marcaVehiculo" : "Toyota",
+  "modeloVehiculo" : "Fortuner",
+  "anhoVehiculo" : 2021,
+  "dniPropietario" : "99012345",
+  "nombresPropietario" : "Sofía",
+  "apellidosPropietario" : "Mendoza Chávez",
+  "direccionPropietario" : "Calle Bolognesi 200, Miraflores",
+  "modeloCamara" : null,
+  "codigoSerieCamara" : null,
+  "latitud" : 0,
+  "longitud" : 0,
+  "monto" : 950.0,
+  "fechaCaptura" : 1758433200000,
+  "fechaRegistro" : 1758499331168
+}

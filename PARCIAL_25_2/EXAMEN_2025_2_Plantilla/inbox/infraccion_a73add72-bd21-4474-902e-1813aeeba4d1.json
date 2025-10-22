@@ -1,0 +1,20 @@
+{
+  "placa": "EFG-567",
+  "velocidad": 72.7,
+  "limite": 50.0,
+  "exceso": 22.700000000000003,
+  "marcaVehiculo": "Nissan",
+  "modeloVehiculo": "Versa",
+  "anhoVehiculo": 2021,
+  "dniPropietario": "89012345",
+  "nombresPropietario": "Jorge",
+  "apellidosPropietario": "Pérez Huamán",
+  "direccionPropietario": "Av. Universitaria 3050, San Martín de Porres",
+  "modeloCamara": "Axis",
+  "codigoSerieCamara": "CAM-LIM-003",
+  "latitud": -12051234,
+  "longitud": -77035678,
+  "monto": 950.0,
+  "fechaCaptura": 1760535613940,
+  "fechaRegistro": 1760535613940
+}

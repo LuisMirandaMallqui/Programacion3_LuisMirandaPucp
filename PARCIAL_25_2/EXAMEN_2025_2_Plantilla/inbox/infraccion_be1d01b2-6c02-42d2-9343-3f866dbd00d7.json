@@ -1,0 +1,20 @@
+{
+  "placa": "NOP-456",
+  "velocidad": 59.8,
+  "limite": 50.0,
+  "exceso": 9.799999999999997,
+  "marcaVehiculo": "Suzuki",
+  "modeloVehiculo": "Swift",
+  "anhoVehiculo": 2020,
+  "dniPropietario": "98901234",
+  "nombresPropietario": "Paola",
+  "apellidosPropietario": "Ortega Silva",
+  "direccionPropietario": "Av. Javier Prado Este 4500, La Molina",
+  "modeloCamara": "Axis",
+  "codigoSerieCamara": "CAM-LIM-003",
+  "latitud": -12051234,
+  "longitud": -77035678,
+  "monto": 950.0,
+  "fechaCaptura": 1760535613940,
+  "fechaRegistro": 1760535613940
+}

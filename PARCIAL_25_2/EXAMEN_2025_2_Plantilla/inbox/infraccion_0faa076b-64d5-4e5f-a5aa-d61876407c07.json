@@ -1,0 +1,20 @@
+{
+  "placa": "GHI-789",
+  "velocidad": 55.1,
+  "limite": 50.0,
+  "exceso": 5.100000000000001,
+  "marcaVehiculo": "Honda",
+  "modeloVehiculo": "Civic",
+  "anhoVehiculo": 2016,
+  "dniPropietario": "91234567",
+  "nombresPropietario": "Fernando",
+  "apellidosPropietario": "Castro Medina",
+  "direccionPropietario": "Jr. Ica 234, Cercado de Lima",
+  "modeloCamara": "Dahua",
+  "codigoSerieCamara": "CAM-LIM-002",
+  "latitud": -12049876,
+  "longitud": -77038901,
+  "monto": 950.0,
+  "fechaCaptura": 1760535613940,
+  "fechaRegistro": 1760535613940
+}

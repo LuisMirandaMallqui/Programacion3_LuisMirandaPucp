@@ -1,0 +1,21 @@
+{
+  "id" : 0,
+  "placa" : "DEF-456",
+  "velodicad" : 60.2,
+  "limite" : 50.0,
+  "exceso" : 10.200000000000003,
+  "marcaVehiculo" : "Chevrolet",
+  "modeloVehiculo" : "Spark",
+  "anhoVehiculo" : 2017,
+  "dniPropietario" : "78901234",
+  "nombresPropietario" : "Ana",
+  "apellidosPropietario" : "García Paredes",
+  "direccionPropietario" : "Calle Los Cedros 245, Surco",
+  "modeloCamara" : null,
+  "codigoSerieCamara" : null,
+  "latitud" : 0,
+  "longitud" : 0,
+  "monto" : 950.0,
+  "fechaCaptura" : 1758386700000,
+  "fechaRegistro" : 1758499331167
+}

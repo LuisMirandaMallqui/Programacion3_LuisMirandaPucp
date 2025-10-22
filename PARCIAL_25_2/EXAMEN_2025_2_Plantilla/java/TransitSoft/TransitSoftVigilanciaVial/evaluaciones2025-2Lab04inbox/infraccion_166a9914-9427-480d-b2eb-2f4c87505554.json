@@ -1,0 +1,21 @@
+{
+  "id" : 0,
+  "placa" : "RST-890",
+  "velodicad" : 68.6,
+  "limite" : 50.0,
+  "exceso" : 18.599999999999994,
+  "marcaVehiculo" : "Toyota",
+  "modeloVehiculo" : "Hilux",
+  "anhoVehiculo" : 2022,
+  "dniPropietario" : "93344556",
+  "nombresPropietario" : "Diego",
+  "apellidosPropietario" : "Suárez Campos",
+  "direccionPropietario" : "Av. Colonial 3200, Callao",
+  "modeloCamara" : null,
+  "codigoSerieCamara" : null,
+  "latitud" : 0,
+  "longitud" : 0,
+  "monto" : 950.0,
+  "fechaCaptura" : 1758427200000,
+  "fechaRegistro" : 1758499331168
+}

@@ -1,0 +1,12 @@
+D:\Lab06-Estudiantes\.net\TransitSoft\TransitSoftDBManager\bin\Release\TransitSoftDBManager.dll.config
+D:\Lab06-Estudiantes\.net\TransitSoft\TransitSoftDBManager\bin\Release\TransitSoftDBManager.dll
+D:\Lab06-Estudiantes\.net\TransitSoft\TransitSoftDBManager\bin\Release\TransitSoftDBManager.pdb
+D:\Lab06-Estudiantes\.net\TransitSoft\TransitSoftDBManager\bin\Release\System.Configuration.ConfigurationManager.dll
+D:\Lab06-Estudiantes\.net\TransitSoft\TransitSoftDBManager\bin\Release\System.Threading.Tasks.Extensions.dll
+D:\Lab06-Estudiantes\.net\TransitSoft\TransitSoftDBManager\bin\Release\System.Configuration.ConfigurationManager.xml
+D:\Lab06-Estudiantes\.net\TransitSoft\TransitSoftDBManager\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\Lab06-Estudiantes\.net\TransitSoft\TransitSoftDBManager\obj\Release\TransitSoftDBManager.csproj.AssemblyReference.cache
+D:\Lab06-Estudiantes\.net\TransitSoft\TransitSoftDBManager\obj\Release\TransitSoftDBManager.csproj.CoreCompileInputs.cache
+D:\Lab06-Estudiantes\.net\TransitSoft\TransitSoftDBManager\obj\Release\TransitS.77D6F5F2.Up2Date
+D:\Lab06-Estudiantes\.net\TransitSoft\TransitSoftDBManager\obj\Release\TransitSoftDBManager.dll
+D:\Lab06-Estudiantes\.net\TransitSoft\TransitSoftDBManager\obj\Release\TransitSoftDBManager.pdb

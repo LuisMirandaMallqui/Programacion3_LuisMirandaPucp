@@ -1,0 +1,6 @@
+pe\edu\pucp\transitsoft\dto\Infraccion.class
+pe\edu\pucp\transitsoft\modelo\Propietario.class
+pe\edu\pucp\transitsoft\modelo\Vehiculo.class
+pe\edu\pucp\transitsoft\modelo\EstadoCaptura.class
+pe\edu\pucp\transitsoft\modelo\Camara.class
+pe\edu\pucp\transitsoft\modelo\Captura.class

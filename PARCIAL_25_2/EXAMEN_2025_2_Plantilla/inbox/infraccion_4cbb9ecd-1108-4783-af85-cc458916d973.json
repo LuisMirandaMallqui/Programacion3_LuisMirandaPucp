@@ -1,0 +1,20 @@
+{
+  "placa": "PQR-678",
+  "velocidad": 63.4,
+  "limite": 50.0,
+  "exceso": 13.399999999999999,
+  "marcaVehiculo": "Mitsubishi",
+  "modeloVehiculo": "Outlander",
+  "anhoVehiculo": 2021,
+  "dniPropietario": "91122334",
+  "nombresPropietario": "Manuel",
+  "apellidosPropietario": "Cruz Vargas",
+  "direccionPropietario": "Av. La Molina 890, Ate",
+  "modeloCamara": "Dahua",
+  "codigoSerieCamara": "CAM-LIM-002",
+  "latitud": -12049876,
+  "longitud": -77038901,
+  "monto": 950.0,
+  "fechaCaptura": 1760456608996,
+  "fechaRegistro": 1760456608996
+}

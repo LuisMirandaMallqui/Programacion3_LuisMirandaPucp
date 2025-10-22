@@ -1,0 +1,6 @@
+pe\edu\pucp\transitsoft\bo\CapturaBO.class
+pe\edu\pucp\transitsoft\bo\InfraccionBOImpl.class
+pe\edu\pucp\transitsoft\bo\InfraccionBO.class
+pe\edu\pucp\transitsoft\bo\mappers\Mapper.class
+pe\edu\pucp\transitsoft\bo\CapturaBOImpl.class
+pe\edu\pucp\transitsoft\bo\mappers\CapturaToInfraccionMapper.class

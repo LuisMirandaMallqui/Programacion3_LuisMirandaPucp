@@ -1,0 +1,5 @@
+pe\edu\pucp\transitsoft\daoimpl\util\TipoOperacion.class
+pe\edu\pucp\transitsoft\daoimpl\DAOImplBase.class
+pe\edu\pucp\transitsoft\daoimpl\CapturaDAOImpl.class
+pe\edu\pucp\transitsoft\daoimpl\DAOImplBase$1.class
+pe\edu\pucp\transitsoft\dao\CapturaDAO.class

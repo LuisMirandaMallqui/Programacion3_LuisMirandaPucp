@@ -1,0 +1,21 @@
+{
+  "id" : 0,
+  "placa" : "PQR-678",
+  "velodicad" : 63.4,
+  "limite" : 50.0,
+  "exceso" : 13.399999999999999,
+  "marcaVehiculo" : "Mitsubishi",
+  "modeloVehiculo" : "Outlander",
+  "anhoVehiculo" : 2021,
+  "dniPropietario" : "91122334",
+  "nombresPropietario" : "Manuel",
+  "apellidosPropietario" : "Cruz Vargas",
+  "direccionPropietario" : "Av. La Molina 890, Ate",
+  "modeloCamara" : null,
+  "codigoSerieCamara" : null,
+  "latitud" : 0,
+  "longitud" : 0,
+  "monto" : 950.0,
+  "fechaCaptura" : 1758299100000,
+  "fechaRegistro" : 1758499331167
+}

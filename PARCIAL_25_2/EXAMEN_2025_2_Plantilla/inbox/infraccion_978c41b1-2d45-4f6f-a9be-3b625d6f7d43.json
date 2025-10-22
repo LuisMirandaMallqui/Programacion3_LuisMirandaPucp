@@ -1,0 +1,20 @@
+{
+  "placa": "KLM-123",
+  "velocidad": 53.0,
+  "limite": 50.0,
+  "exceso": 3.0,
+  "marcaVehiculo": "Hyundai",
+  "modeloVehiculo": "Tucson",
+  "anhoVehiculo": 2018,
+  "dniPropietario": "95678901",
+  "nombresPropietario": "Héctor",
+  "apellidosPropietario": "Morales Ruiz",
+  "direccionPropietario": "Av. Faucett 1900, Callao",
+  "modeloCamara": "Axis",
+  "codigoSerieCamara": "CAM-LIM-003",
+  "latitud": -12051234,
+  "longitud": -77035678,
+  "monto": 950.0,
+  "fechaCaptura": 1760535613940,
+  "fechaRegistro": 1760535613940
+}
