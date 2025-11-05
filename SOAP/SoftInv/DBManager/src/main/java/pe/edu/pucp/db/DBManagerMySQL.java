@@ -20,6 +20,7 @@ public class DBManagerMySQL extends DBManager {
         url = url.concat(this.puerto);
         url = url.concat("/");
         url = url.concat(this.base_de_datos);
+        url = url.concat("?useSSL=false"); //no utilza conexión segura, para que sirva el glassfish
         //System.out.println(url);
         return url;
     }
