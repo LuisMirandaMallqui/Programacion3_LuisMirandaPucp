@@ -1,0 +1,12 @@
+package pe.edu.pucp.hilos;
+
+/**
+ *
+ * @author luism
+ */
+public class Tarea implements Runnable {
+    @Override
+    public void run(){
+        System.out.println("Hilo: "+Thread.currentThread().getName());
+    }
+}
